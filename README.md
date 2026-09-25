@@ -100,13 +100,13 @@ Kontak & Sosial
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285166615736)
 [![Telegram](https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mamzishere)
 [![Website](https://img.shields.io/badge/Website-lynk.id-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lynk.id/mamzx)
-[![WhatsApp Channel](https://img.shields.io/badge/WA_Channel-Join-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbBQaWD90x2pTqCqpd01/138)
-[![Telegram Channel](https://img.shields.io/badge/Telegram_Channel-Join-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/allinfo_mamz)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@guehmamz)
-[![TikTok](https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@guehmamz)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/@guehmamz)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/@guehmamz)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/guehmamz)
+[![WhatsApp Channel](https://img.shields.io/badge/WA_Channel-Join-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbBQaWD90x2pTqCqpd01)
+[![Telegram Channel](https://img.shields.io/badge/Telegram_Channel-Join-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/aboutmamz)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mamz.official)
+[![TikTok](https://img.shields.io/badge/TikTok-Follow-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@mamz.official)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/@mamz.offc)
+[![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/@mamz.offc)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mamzofficial)
 
 Penutup
 -------------------------
